@@ -1,3 +1,3 @@
-import sum from "./sum.js";
+const { sum } = require("./sum.js");
 
 console.log(sum(2, 3));
